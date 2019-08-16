@@ -65,6 +65,8 @@ $ hugo -d=app
 # OR
 $ hugo --destination=app
 
+$ hugo -d=../../
+
 
 # browser-sync
 $ browser-sync start --server --files "public/*.*"
