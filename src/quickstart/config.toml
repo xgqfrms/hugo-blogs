@@ -1,0 +1,5 @@
+baseURL = "https://hugo.xgqfrms.xyz"
+# languageCode = "en-us"
+languageCode = "zh-Hans"
+title = "Hugo blogs"
+theme = "ananke"
